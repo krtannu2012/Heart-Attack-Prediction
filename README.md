@@ -13,4 +13,4 @@ This project predicts the likelihood of heart attacks based on a dataset contain
 - Make sure to install the necessary libraries (like pandas, scikit-learn, etc.) to run the notebook.
 
 ## Kaggle Project
-You can view and interact with the project on Kaggle: [Heart Attack Prediction on Kaggle]([https://www.kaggle.com/your-username/heart-attack-prediction](https://www.kaggle.com/code/kumaritannu20/up-to-date-heart-attack-analysis-and-predictions)).
+You can view and interact with the project on Kaggle: [Heart Attack Prediction on Kaggle](https://www.kaggle.com/code/kumaritannu20/up-to-date-heart-attack-analysis-and-predictions).
